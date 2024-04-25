@@ -7,7 +7,7 @@ I'm Mohamed Amine! I'm a **Software Developer**:iphone:, looking to solve **real
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/JoykishanSharma](https://www.linkedin.com/in/mohamed-amine-ait-baoui-bbb23a275/))
+[![Linkedin](https://img.shields.io/badge/-MohamedAmine-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/JoykishanSharma](https://www.linkedin.com/in/mohamed-amine-ait-baoui-bbb23a275/))
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)]([https://www.instagram.com/joykishan_sharma](https://www.instagram.com/abaoui.amine/))
 [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aminebaoui1313@gmail.com)
 
